@@ -1,24 +1,36 @@
-# Atividade: Introdução ao SQL com GitHub
+# Atividade Prática de SQL em Educação a Distância (EaD)
 
-Este repositório faz parte de uma atividade de aprendizagem de SQL em contexto de Educação a Distância.  
-Aqui vais encontrar:
+Bem-vindo(a) à atividade prática de SQL.  
+Este repositório contém tudo o que precisas para desenvolver os exercícios, acompanhar o teu progresso e refletir sobre a tua aprendizagem.
 
-- a base de dados em `dados/base_dados.sql`;
-- o enunciado em `atividade/enunciado_atividade.md`;
-- a pasta `trabalho_aluno/`, onde deves escrever a tua **resolução** e a tua **reflexão final**.
+---
 
-## O que tens de fazer
+## O que tens de fazer (passos essenciais)
 
-1. Ler o enunciado em `atividade/enunciado_atividade.md`;
-2. Importar o ficheiro `dados/base_dados.sql` para o simulador SQL/XAMPP;
-3. Escrever os teus comandos SQL em `trabalho_aluno/resolucao.sql`;
-4. Fazer commits ao longo do trabalho (não apenas no fim);
-5. No final, preencher `trabalho_aluno/reflexao_media.md`.
+### 1️. Importar a base de dados
+- Abre o ficheiro `ficheiros/base_dados.sql`.
+- Copia ou importa para o simulador SQL (db<>fiddle, SQL Online, XAMPP, etc.).
+- Executa o script para criar as tabelas e inserir os dados.
 
+### 2️. Abrir o enunciado
+- Vai à pasta `enunciado/atividade_sql.md`.
+- Lê os 8 desafios SQL.
+- Segue as instruções com atenção.
+
+### 3️. Resolver os exercícios
+- Abre o ficheiro `resolucao/resolucao.sql`.
+- Escreve todas as tuas consultas neste ficheiro.
+- Faz **commits frequentes** para registar a tua evolução.
+
+### 4️. Usar media digitais como apoio
 Podes usar:
-- vídeos tutoriais,
-- W3Schools,
-- simuladores SQL online,
-- IA (como apoio, de forma ética e crítica).
+- vídeos tutoriais  
+- W3Schools  
+- simuladores SQL  
+- Inteligência Artificial (de forma ética)
 
-O objetivo é aprender a programar em SQL, experimentar, errar, corrigir e refletir sobre o processo.
+**Nota:** A IA serve para explicar erros, não para escrever a solução por ti.
+
+### 5️. Fazer a reflexão final
+No final do ficheiro `resolucao/resolucao.sql`, adiciona:
+
