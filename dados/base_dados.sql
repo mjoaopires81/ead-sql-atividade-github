@@ -4,8 +4,8 @@
 -- ============================================
 
 -- Criar a base de dados (opcional, depende do simulador)
-CREATE DATABASE escola;
-USE escola;
+-- CREATE DATABASE escola;
+-- USE escola;
 
 -- Criar tabela de alunos
 DROP TABLE IF EXISTS alunos;
