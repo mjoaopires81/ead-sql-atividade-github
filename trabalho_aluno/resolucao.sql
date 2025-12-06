@@ -5,15 +5,38 @@
 --   - Escreve aqui os teus comandos SQL.
 --   - Faz commits regulares à medida que fores testando o código.
 -- ============================================
+# Exercícios SQL (8 desafios)
 
--- 1) Criação das tabelas
--- Escreve aqui os comandos CREATE TABLE ...
+## **1. Seleciona todos os registos da tabela `alunos`.**
 
--- 2) Inserção de dados
--- Escreve aqui os comandos INSERT ...
+---
 
--- 3) Consultas SQL
--- Escreve aqui os comandos SELECT ... WHERE ...
+## **2. Seleciona os alunos com média superior a 15.**
 
--- 4) Outras consultas ou experiências
--- Podes acrescentar aqui consultas adicionais que tenhas testado.
+---
+
+## **3. Mostra os alunos ordenados pela média em ordem decrescente.**
+
+---
+
+## **4. Conta quantos alunos estão no curso 'Multimédia'.**
+
+---
+
+## **5. Faz um JOIN entre professores e disciplinas, listando o nome dos professores e o departamento.**
+
+---
+
+## **6. Mostra quantos alunos existem por curso (usar GROUP BY).**
+
+---
+
+## **7. Apresenta a média global das médias dos alunos, a mais alta e a mais baixa.**
+
+---
+
+## **8. Seleciona os alunos cuja média é superior à média geral da tabela (subconsulta).**
+
+---
+
+Depois de concluíres a atividade, não te esqueças da **reflexão final**, conforme descrito no README.
