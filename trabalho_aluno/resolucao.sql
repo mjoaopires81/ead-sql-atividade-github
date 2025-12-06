@@ -39,4 +39,4 @@
 
 ---
 
-Depois de concluíres a atividade, não te esqueças da **reflexão final**, conforme descrito no README.
+Depois de concluíres a atividade, não te esquecas da **reflexão final**, conforme está descrito README.
