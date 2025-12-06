@@ -33,4 +33,16 @@ Podes usar:
 
 ### 5️. Fazer a reflexão final
 No final do ficheiro `resolucao/resolucao.sql`, adiciona:
+-- REFLEXÃO FINAL:
+-- Qual foi o media digital que mais ajudou a aprender SQL? Porquê?
+-- Onde tiveste mais dificuldades?
+-- Como lidaste com os erros e que estratégias usaste para ultrapassar desafios?
+
+### 6️. Confirmar antes de entregar
+- O ficheiro `resolucao.sql` está completo?  
+- Fizeste commits progressivos?  
+- Incluíste a reflexão final?  
+
+Bom trabalho! 🚀
+
 
